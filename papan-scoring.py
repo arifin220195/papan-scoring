@@ -1,3 +1,4 @@
+print("Bismillaahirrohmaanirrohiim...")
 tor = True 
 while tor:
 
